@@ -10,7 +10,7 @@ BOWIe can be assembled with commercially available off-the-shelf components and 
 
 ## Development
 
-BOWIe was developed by the [Neurophysiology and Neuroengineering Laboratory](https://www.neuro-ephys.org/) (Porto, Portugal).  
+BOWIe was developed by the [Neurophysiology and Neuroengineering Lab](https://www.neuro-ephys.org/) (Porto, Portugal).  
 
 ## Citing this Work
 
