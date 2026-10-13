@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-06-28T15:47:08Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB_Headstage v39"
+        },
+        "Owner": "Patrícia Silva <up689180@up.pt>",
+        "Size": {
+            "X": 16.89,
+            "Y": 15.613572
+        }
+    }
+}
